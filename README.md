@@ -10,6 +10,7 @@ git push origin master
 
 git help
   
+  cd "D://path"
 ```
 
 About GitHub
