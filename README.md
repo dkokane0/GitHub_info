@@ -1,4 +1,16 @@
 # GitHub_info
+```
+git init 
+git remote add origin <gitLink>
+git remote -V
+git add .
+  
+git commit -m "first Commit"
+git push origin master
+
+git help
+  
+```
 
 About GitHub
 
